@@ -14,6 +14,25 @@ html {
     color: #222;
     font-size: 1em;
     line-height: 1.4;
+
+}
+
+#banner {
+  display: flex;
+  height: 10rem;
+  width: 100%;
+  background-color: DarkSlateGray;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+#banner h1 {
+  font-size: 3.75rem;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  align: center;
+  color: OrangeRed;
 }
 
 /*
